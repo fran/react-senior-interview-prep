@@ -1,6 +1,6 @@
 # Resources (current as of early 2026)
 
-> See also: `01-mental-models.rd` (deep dives) · `03-interview-qa.rd` (rehearsal Q&A).
+> See also: `01-mental-models.md` (deep dives) · `03-qa.md` (rehearsal Q&A).
 
 ---
 
@@ -53,11 +53,11 @@
 - **Vitest** — fast, modern test runner.
 - **Playwright** — for end-to-end.
 
-## Verbal interview prep (general)
+## Verbal practice (general)
 
-- **"System Design Interview" by Alex Xu** — general patterns, not React-specific but useful for the design drill.
-- **Pramp / interviewing.io** — free/cheap mock interviews with peers.
+- **"System Design" by Alex Xu** — general patterns, not React-specific but useful for the design drill.
+- **Peer practice platforms** — free/cheap timed practice with peers.
 
 ---
 
-*Verify URLs and version numbers before citing in interviews — docs move. Last review: early 2026.*
+*Verify URLs and version numbers before citing verbally — docs move. Last review: early 2026.*

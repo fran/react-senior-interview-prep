@@ -1,8 +1,8 @@
 # The Four Mental Models
 
-These are the four mental models a senior React engineer must internalize. They form the spine of most interview answers.
+These are the four mental models a senior React engineer must internalize. They form the spine of strong answers.
 
-> See also: `02-react19-cheatsheet.rd` (one-page reference) · `03-interview-qa.rd` (12 senior Q&A).
+> See also: `02-react19-cheatsheet.md` (one-page reference) · `03-qa.md` (12 senior Q&A).
 
 ---
 
@@ -32,7 +32,7 @@ state ──► render() ──► Virtual DOM (fiber tree)
    - `useEffect` runs *after* paint.
 
 3. **Keys are for identity, not performance.**
-   A bad key (e.g. array `index` on a reorderable list) breaks reconciliation correctness — components remount, state is lost. This is the #1 most common interview gotcha about lists.
+   A bad key (e.g. array `index` on a reorderable list) breaks reconciliation correctness — components remount, state is lost. This is the #1 most common gotcha about lists.
 
 ### The senior answer pattern for "what happens when you call setState?"
 
@@ -221,7 +221,7 @@ The Compiler auto-inserts memoization based on AST analysis. You can mostly stop
                Components is the key pattern)
 ```
 
-### The pattern senior interviewers care about
+### The pattern senior senior engineers care about
 
 You can pass a Server Component *as a prop* to a Client Component, and the Client Component will render it without re-fetching:
 
@@ -267,4 +267,4 @@ Fix: do these in `useEffect` (post-mount) or use `useId` / `useSyncExternalStore
 
 ---
 
-*See also: `02-react19-cheatsheet.rd` (one-page reference) · `03-interview-qa.rd` (12 senior Q&A) · `04-practice-drills.rd` (live coding + system design).*
+*See also: `02-react19-cheatsheet.md` (one-page reference) · `03-qa.md` (12 senior Q&A) · `04-practice-drills.md` (live coding + system design).*

@@ -1,6 +1,6 @@
 # Practice Drills
 
-> See also: `00-overview-and-plan.rd` (when to run these) · `03-interview-qa.rd` (verbal rehearsal) · `01-mental-models.rd` (concepts to lean on).
+> See also: `00-overview-and-plan.md` (when to run these) · `03-qa.md` (verbal rehearsal) · `01-mental-models.md` (concepts to lean on).
 
 ---
 
@@ -87,15 +87,15 @@
 
 ---
 
-## Mock Interview (Day 14, optional but recommended)
+## Mock Rehearsal (Day 14, optional but recommended)
 
 Pair with a friend (or use a rubber duck / record yourself). Structure:
 
-1. **Warm-up (10 min):** Ask 2 random Q&A from `03-interview-qa.rd`. Have them time you.
+1. **Warm-up (10 min):** Ask 2 random Q&A from `03-qa.md`. Have them time you.
 2. **Live coding (30 min):** Run the search drill above. Have them throw in "wait, what if we need X?" mid-build.
 3. **System design (30 min):** Walk through the Reddit feed design. Have them challenge trade-offs.
-4. **Debrief (10 min):** What felt shaky? Re-read the relevant section of `01-mental-models.rd`.
+4. **Debrief (10 min):** What felt shaky? Re-read the relevant section of `01-mental-models.md`.
 
 ---
 
-*See also: `05-resources.rd` for further reading.*
+*See also: `05-resources.md` for further reading.*

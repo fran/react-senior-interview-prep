@@ -1,6 +1,6 @@
-# React Senior Interview Prep — Overview & Plan
+# React Senior Study Notes — Overview & Plan
 
-> **Audience:** Senior React engineers (5–8 yrs) interviewing in early 2026.
+> **Audience:** Senior React engineers (5–8 yrs) leveling up in early 2026.
 > **React version:** 19 (stable since Dec 2024; React Compiler production-ready through 2025).
 > **Format:** Mixed — assumes live coding + system design + Q&A.
 > **Time budget:** ~30 hours over 14 days.
@@ -11,12 +11,12 @@
 
 | # | File | Purpose |
 | --- | --- | --- |
-| 00 | `00-overview-and-plan.rd` | This file — overview, reading order, 2-week plan, Day-14 checklist |
-| 01 | `01-mental-models.rd` | The four mental models (full depth, with code) |
-| 02 | `02-react19-cheatsheet.rd` | One-page React 19 reference |
-| 03 | `03-interview-qa.rd` | 12 senior interview Q&A (3-min verbal format) |
-| 04 | `04-practice-drills.rd` | Live coding + system design drills |
-| 05 | `05-resources.rd` | Curated resources (current early 2026) |
+| 00 | `00-overview-and-plan.md` | This file — overview, reading order, 2-week plan, Day-14 checklist |
+| 01 | `01-mental-models.md` | The four mental models (full depth, with code) |
+| 02 | `02-react19-cheatsheet.md` | One-page React 19 reference |
+| 03 | `03-qa.md` | 12 senior Q&A (3-min verbal format) |
+| 04 | `04-practice-drills.md` | Live coding + system design drills |
+| 05 | `05-resources.md` | Curated resources (current early 2026) |
 
 ---
 
@@ -45,20 +45,20 @@
 | 8 | SSR fundamentals: hydration, streaming, hydration mismatch, suspense boundaries | Compare classic SSR vs streaming SSR |
 | 9 | RSC architecture: Server vs Client Components, server-only code, RSC payload | Decide which components in a sample app should be RSC |
 | 10 | Next.js App Router: layouts, loading/error UI, Server Actions, data fetching | Build a small CRUD feature with Server Actions |
-| 11 | Interview rehearsal: write answers to the 12 questions (see `03-interview-qa.rd`) | Time yourself: 3 min per answer |
-| 12 | Live coding drill (see `04-practice-drills.rd`) | Record yourself |
-| 13 | System design drill (see `04-practice-drills.rd`) | Write a design doc |
-| 14 | Final review: cheat sheet + weak spots + mock interview | Confidence check |
+| 11 | Rehearsal: write answers to the 12 questions (see `03-qa.md`) | Time yourself: 3 min per answer |
+| 12 | Live coding drill (see `04-practice-drills.md`) | Record yourself |
+| 13 | System design drill (see `04-practice-drills.md`) | Write a design doc |
+| 14 | Final review: cheat sheet + weak spots + mock rehearsal | Confidence check |
 
 ---
 
 ## Day-14 closing checklist
 
-- [ ] Re-read `02-react19-cheatsheet.rd` once.
-- [ ] Speak the 12 answers out loud, 3 min each (from `03-interview-qa.rd`).
-- [ ] Do one full live coding drill, timed (from `04-practice-drills.rd`).
+- [ ] Re-read `02-react19-cheatsheet.md` once.
+- [ ] Speak the 12 answers out loud, 3 min each (from `03-qa.md`).
+- [ ] Do one full live coding drill, timed (from `04-practice-drills.md`).
 - [ ] Do one full system design drill, written.
-- [ ] Mock interview with a friend (or rubber duck).
+- [ ] Mock rehearsal with a friend (or rubber duck).
 - [ ] Sleep. (Performance matters on the day.)
 
 ---

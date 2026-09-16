@@ -1,8 +1,8 @@
 # React 19 Cheat Sheet (one-page reference)
 
-> For interview-day review. Read this once the morning of.
+> For final review. Read this once.
 
-> See also: `01-mental-models.rd` (deep dives) · `03-interview-qa.rd` (rehearsal Q&A).
+> See also: `01-mental-models.md` (deep dives) · `03-qa.md` (rehearsal Q&A).
 
 ---
 
